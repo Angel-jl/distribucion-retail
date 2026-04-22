@@ -153,7 +153,7 @@ El script genera automáticamente:
 ## 👤 Autor
 
 **Ángel** — Account Manager & Data Analytics Specialist  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-jimenez-28696b255)
 [![GitHub](https://img.shields.io/badge/GitHub-Angel--jl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Angel-jl)
 
 ---
